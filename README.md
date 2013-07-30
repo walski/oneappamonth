@@ -15,11 +15,12 @@ If one of the rules above is broken by any participant of this competition he sh
 
 ## Apps
 
-List your published apps.
+None yet. First due: August 2013
 
 ## Contestants
 
-List your contestants.
+* [@seppsepp](https://github.com/seppsepp)
+* [@walski](https://github.com/walski)
 
 ## Start your own One App a Month
 
