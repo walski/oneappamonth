@@ -1,6 +1,6 @@
 # One App a Month
 
-Way too often we build amazing things but forget to make the accessible to the world and charge for our work. This is a competition between friends to help remember us of our developer duties :)
+Way too often we build amazing things but forget to make them accessible to the world and charge for our work. This is a competition between friends to help remember us of our developer duties :)
 
 ## Rules
 
